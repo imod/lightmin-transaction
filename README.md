@@ -1,4 +1,4 @@
-# Spring Batch Lightmin Transacton Demo
+# Spring Batch Lightmin Transaction Demo
 
 This example demonstrates a problem with Spring Batch Lightmin.
 Per default spring data jpa repositories can be used directly and each method execution are wrapped with a correct transaction.
