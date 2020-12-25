@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: batch
+  main:
+    allow-bean-definition-overriding: true
+  liquibase:
+    change-log: classpath:/db/changelog/db.changelog-master.xml
+  jpa:
+    show-sql: true
