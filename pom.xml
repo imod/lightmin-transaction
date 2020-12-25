@@ -17,7 +17,7 @@
 
 	<properties>
 		<java.version>11</java.version>
-		<spring-batch-lightmin.version>2.1.0</spring-batch-lightmin.version>
+		<spring-batch-lightmin.version>2.1.2</spring-batch-lightmin.version>
 	</properties>
 
 	<dependencies>
