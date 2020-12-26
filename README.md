@@ -30,3 +30,5 @@ example of spring data jpa repository usage:
 ```
 
 This demo application has a test case which shows the problem: `LightminTransactionApplicationTests`. The test case passes, as soon as `@EnableLightminEmbedded` and `@EnableLightminJdbcConfigurationRepository` are commented/deactovated.
+
+This is reported at: https://github.com/tuxdevelop/spring-batch-lightmin/issues/52
